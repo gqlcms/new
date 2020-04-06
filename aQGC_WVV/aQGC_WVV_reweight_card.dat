@@ -1,0 +1,115 @@
+change rwgt_dir ./rwgt
+
+#************	FT0	***************************
+launch --rwgt_name=FS0_00p00FT0_00p00
+        set anoinputs 11 0.000000e+00
+        set anoinputs 1 0.000000e+00
+
+#************	FT0	***************************
+launch --rwgt_name=FS0_00p00FT0_02p00
+        set anoinputs 11 2.0e-12
+        set anoinputs 1 0.000000e+00
+
+
+#************	FT0	***************************
+launch --rwgt_name=FS0_00p00FT0_01p50
+        set anoinputs 11 1.5e-12
+        set anoinputs 1 0.000000e+00
+
+
+#************	FT0	***************************
+launch --rwgt_name=FS0_00p00FT0_01p00
+        set anoinputs 11 1.0e-12
+        set anoinputs 1 0.000000e+00
+
+
+#************	FT0	***************************
+launch --rwgt_name=FS0_00p00FT0_00p50
+        set anoinputs 11 0.5e-12
+        set anoinputs 1 0.000000e+00
+
+
+#************	FT0	***************************
+launch --rwgt_name=FS0_00p00FT0_m00p50
+        set anoinputs 11 -0.5e-12
+        set anoinputs 1 0.000000e+00
+
+
+#************	FT0	***************************
+launch --rwgt_name=FS0_00p00FT0_m01p00
+        set anoinputs 11 -1.0e-12
+        set anoinputs 1 0.000000e+00
+
+
+#************	FT0	***************************
+launch --rwgt_name=FS0_00p00FT0_m01p50
+        set anoinputs 11 -1.5e-12
+        set anoinputs 1 0.000000e+00
+
+
+#************	FT0	***************************
+launch --rwgt_name=FS0_00p00FT0_m02p00
+        set anoinputs 11 -2.0e-12
+        set anoinputs 1 0.000000e+00
+
+
+#************	FT0	***************************
+launch --rwgt_name=FS0_00p00FT0_m02p50
+        set anoinputs 11 -2.5e-12
+        set anoinputs 1 0.000000e+00
+
+
+
+#************	FS0	***************************
+launch --rwgt_name=FS0_20p00FT0_00p00
+        set anoinputs 1 20.0e-12
+        set anoinputs 11 0.000000e+00
+
+
+#************	FS0	***************************
+launch --rwgt_name=FS0_15p00FT0_00p00
+        set anoinputs 1 15.0e-12
+        set anoinputs 11 0.000000e+00
+
+
+#************	FS0	***************************
+launch --rwgt_name=FS0_10p00FT0_00p00
+        set anoinputs 1 10.0e-12
+        set anoinputs 11 0.000000e+00
+
+
+#************	FS0	***************************
+launch --rwgt_name=FS0_05p00FT0_00p00
+        set anoinputs 1 5.0e-12
+        set anoinputs 11 0.000000e+00
+
+
+#************	FS0	***************************
+launch --rwgt_name=FS0_m05p00FT0_00p00
+        set anoinputs 1 -5.0e-12
+        set anoinputs 11 0.000000e+00
+
+
+#************	FS0	***************************
+launch --rwgt_name=FS0_m10p00FT0_00p00
+        set anoinputs 1 10.0e-12
+        set anoinputs 11 0.000000e+00
+
+
+#************	FS0	***************************
+launch --rwgt_name=FS0_m15p00FT0_00p00
+        set anoinputs 1 -15.0e-12
+        set anoinputs 11 0.000000e+00
+
+
+#************	FS0	***************************
+launch --rwgt_name=FS0_m20p00FT0_00p00
+        set anoinputs 1 -20.0e-12
+        set anoinputs 11 0.000000e+00
+
+
+#************	FS0	***************************
+launch --rwgt_name=FS0_m25p00FT0_00p00
+        set anoinputs 1 -25.0e-12
+        set anoinputs 11 0.000000e+00
+
